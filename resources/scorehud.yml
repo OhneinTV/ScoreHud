@@ -3,10 +3,12 @@
 # ONLY FOR INTERNAL USE.
 scorehud-version: 1
 
-# Changing titles of the scoreboard.
+# Changing tit
+
+les of the scoreboard.
 # Can be of any number.
 server-names:
-- "§l§aServer §dName"
+- "§l§bOhnein.net"
 - "§l§bServer §cName"
 - "§l§cServer §bName"
 - "§l§dServer §aName"
@@ -28,8 +30,8 @@ server-names:
 #
 # For a list of addons go here https://github.com/JackMD/ScoreHud/blob/master/README.md#addons.
 score-lines:
-- " §aLine #1"
-- " §bLine #2"
+- " §l§bKontostand:3000000#1"
+- " §l§bOnline:3 #2"
 - " §cLine #3"
 - " §dLine #4"
 
